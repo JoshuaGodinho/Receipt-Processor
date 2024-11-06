@@ -1,0 +1,10 @@
+# Go binary files
+/bin/
+/build/
+/vendor/
+
+# Go module files
+go.sum
+
+# System files
+.DS_Store
